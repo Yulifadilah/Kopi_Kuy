@@ -1,0 +1,42 @@
+{
+    "arabica": [
+        {
+            "foto": "https://i.pinimg.com/564x/75/c0/86/75c086b38ccb41b7876166eacd2fea1e.jpg",
+            "nama": "grean tea chess",
+            "size": "300 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/39/53/b1/3953b16fbaba394a27e65424bba962c0.jpg",
+            "nama": "creamy delicious",
+            "size": "500 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/57/31/e6/5731e67feae989d154aa7c05661c2fec.jpg",
+            "nama": "Strawberry milk",
+            "size": "250 Gram",
+            "harga": "90.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+        
+    ],
+    "robusta": [
+        {
+            "foto": "https://i.pinimg.com/564x/5f/68/d2/5f68d228689f4673b239735085bdc25b.jpg",
+            "nama": "lemon tea",
+            "size": "250 Gram",
+            "harga": "60.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/cf/1c/29/cf1c290514223c47edb5b08f250735d1.jpg",
+            "nama": "subak lover",
+            "size": "400 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
